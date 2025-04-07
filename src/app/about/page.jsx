@@ -2,8 +2,10 @@ import React from 'react';
 
 const AboutPage = () => {
     return (
-        <div>
-            Hello from about
+
+        <div className='text-5xl'>
+    <h1>  Hello from about
+        </h1>  
         </div>
     );
 };
